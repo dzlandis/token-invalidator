@@ -3,10 +3,10 @@
 
 ---
 ### Where did you find my token?
-It was on a public platform like [Replit](https://replit.com) or something similar
+It was on a public website available for anyone to see.
 
 ### What did you do to my token?
-I have **INVALIDATED** it by posting it here! When Discord tokens are posted to Github, Discord automatically **INVALIDATES** the token!
+I have **INVALIDATED** it by posting it here! When Discord tokens are posted to Github, Discord automatically **INVALIDATES** the token and sends you a notification!
 
 ### Did you hack into my account?
 I did not.
