@@ -1,3 +1,6 @@
+// You probaby got a notification from Discord that your token was found here!
+// Please check out https://github.com/dzlandis/token-invalidator/blob/main/README.md if you have any questions
+
 ODM4NzkxODYyNDg2Njk1OTg2.YJAPzQ.FaD7DGLbelLkAifJeilFWXqDqYA
 ODM4NzkxODYwNDUyMzI3NDU0.YJAPzQ.JDLyldmrSU4r6HlfWSuTrFECuZE
 ODM4NzkxODQ4OTAxODY5NjI4.YJAPyg.SNGqKSKro7dcLBK6Phu39XwnJGQ
@@ -14995,6 +14998,3 @@ OTczOTE4NTg3NTQ0ODA1Mzg2.GvNBpR.EjdSnurzeYS3m4xDprST1nKnRXGDCPSUE5ffMo
 OTczOTE4MTc0NTQ0MjczNDc4.GFWp49.GvRRpOt-0i0eUlMe_vgTsrOgyLjc9BdiThu3nM
 OTczOTIxMTkxNTg2ODQwNjI2.Ge65lZ._0qAVwN_hTJuByH8GUCAVvwricqrsLaEcG270A
 OTczOTI0Mzk5MDEzMDYwNjk4.GsyAPB.gCD9gSCbRrIAJx4y-qqV6A0BeHEMiGIeEO8SMs
-OTczOTIyNTcwOTQ2NjA5MjAz.G1Rf7z.tR_pfsKuLM688zUQ6G2zDbFOOVPXyxoy2l1U4U
-OTczOTIzMDMyMTg1ODYwMTM2.G-OihE.M1MgcRkJtK2r1k4_NnqNXJYI-Fo2uxUEhQRFVg
-OTczOTI1Mjg0NjQ4NzM0Nzkx.GSpz86.6CJ7ui_FxtxAZD5GE_EUWqclEhkE5DnTu-5dRU
