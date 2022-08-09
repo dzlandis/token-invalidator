@@ -1,5 +1,5 @@
 # Read the FAQ
-## Your token was found on a **public** website and I have went ahead and **invalidated** it.
+## Your token was found on a **public** website and I have went ahead and **INVALIDATED** it.
 
 ---
 ### Where did you find my token?
